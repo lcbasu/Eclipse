@@ -1,0 +1,51 @@
+07:11:25 **** Build of configuration Debug for project CPPHelloWorld ****
+make all 
+Building file: ../src/CPPHelloWorld.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/CPPHelloWorld.d" -MT"src/CPPHelloWorld.d" -o "src/CPPHelloWorld.o" "../src/CPPHelloWorld.cpp"
+Finished building: ../src/CPPHelloWorld.cpp
+ 
+Building target: CPPHelloWorld
+Invoking: MacOS X C++ Linker
+g++  -o "CPPHelloWorld"  ./src/CPPHelloWorld.o   
+Finished building target: CPPHelloWorld
+ 
+07:11:29 **** Build of configuration Debug for project KnutMorris ****
+make all 
+Building file: ../src/KnutMorris.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/KnutMorris.d" -MT"src/KnutMorris.d" -o "src/KnutMorris.o" "../src/KnutMorris.cpp"
+Finished building: ../src/KnutMorris.cpp
+ 
+Building target: KnutMorris
+Invoking: MacOS X C++ Linker
+g++  -o "KnutMorris"  ./src/KnutMorris.o   
+Finished building target: KnutMorris
+ 
+07:11:34 **** Incremental Build of configuration Debug for project KnutMorris ****
+make all 
+make: Nothing to be done for `all'.
+07:12:03 **** Incremental Build of configuration Debug for project KnutMorris ****
+make all 
+Building file: ../src/KnutMorris.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/KnutMorris.d" -MT"src/KnutMorris.d" -o "src/KnutMorris.o" "../src/KnutMorris.cpp"
+Finished building: ../src/KnutMorris.cpp
+ 
+Building target: KnutMorris
+Invoking: MacOS X C++ Linker
+g++  -o "KnutMorris"  ./src/KnutMorris.o   
+Finished building target: KnutMorris
+ 
+07:12:32 **** Incremental Build of configuration Debug for project KnutMorris ****
+make all 
+make: Nothing to be done for `all'.
+12:00:21 **** Incremental Build of configuration Debug for project KnutMorris ****
+make all 
+make: Nothing to be done for `all'.
+16:07:44 **** Incremental Build of configuration Debug for project KnutMorris ****
+make all 
+make: Nothing to be done for `all'.
+16:08:01 **** Incremental Build of configuration Debug for project CPPHelloWorld ****
+make all 
+make: Nothing to be done for `all'.
